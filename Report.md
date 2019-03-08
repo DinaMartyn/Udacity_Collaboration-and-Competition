@@ -27,7 +27,7 @@ NUM_BATCHES = 1         # Roll out this many batches when training
 ## Plot of Rewards during learning
 
 The following scores show that 3890 episodes are enough to train the network in 3256 sec (less than 1 hour).
-![plot](images/Scores.PNG "Learning performance plot")
+![plot](Images/Scores.PNG "Learning performance plot")
 
 A plot illustrates that the agent is able to receive an average reward (over 100 episodes) of at least +0.5 with single spikes over +2.5. 
 
